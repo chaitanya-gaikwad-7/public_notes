@@ -128,5 +128,3 @@ Download and install the following software:
 
 🚀 **Now Jenkins is accessible via:**  
 👉 `https://jenkins.example.com/jenkins` 🎉  
-
-Let me know if you need any modifications! 😊
